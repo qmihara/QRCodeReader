@@ -1,0 +1,2 @@
+# QRCodeReader
+QRCodeReader for iOS
